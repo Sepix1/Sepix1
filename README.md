@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 I'm Patrick, and welcome to my GitHub.
+
 I'm a recently graduated Bachelor of Computer Science student, and I'm open to work!
+
 You can contact me via email: pmhiemstra@outlook.com
+
 LinkedIn: www.linkedin.com/in/patrick-hiemstra-413689333
 
 <!--
